@@ -1,7 +1,7 @@
 \documentclass{report}
 \usepackage[utf8]{inputenc}
 \usepackage[italian]{babel}
-\usepackage{hyperref}
+\usepackage[linktoc=all]{hyperref}
 \usepackage{graphicx}
 \hypersetup{
 	colorlinks,
@@ -10,7 +10,7 @@
 	linkcolor=black,
 	urlcolor=black
 }
-
+\usepackage[a4paper,includeheadfoot,margin=2.54cm]{geometry}
 \usepackage{fancyhdr}
 
 \pagestyle{fancy}
@@ -109,6 +109,66 @@
 		\item \textbf{E' decrescente}: per produrre una quantita' maggiore di un bene e' necessario sacrificare la produzione dell'altro bene;
 		\item \textbf{E' concava}: all'aumentare della produzione di un bene e' necessario sacrificare quantita' sempre crescenti dell'altro bene.
 	\end{itemize}
-	\chapter{2}
-	
+	\chapter{Il mercato}
+	\large Domanda, offerta ed equilibrio
+	\section{Cos'è un mercato?}
+	Tema centrale della microeconomia e' lo studio del funzionamento dei mercati, ovvero insiemi regolati di compratori e venditori di beni, servizi o fattori produttivi.\medskip \\Una prima ipotesi istituzionale e' che esista sempre un prezzo positivo per il bene, quindi venditori e compratori riusciranno sempre ad accordarsi per lo scambio. Cio' implica che il mercato sia l'istituzione dove gli agenti si scambiano beni.
+	\medskip \\Sono presenti 4 forme di mercato:
+	\begin{itemize}
+		\item Concorrenza perfetta
+		\item Concorrenza monopolistica
+		\item Monopolio
+		\item Oligopolio
+	\end{itemize}
+	\section{Mercato di concorrenza perfetta}
+	Vengono soddisfatte 4 ipotesi:
+	\begin{enumerate}
+		\item \textbf{molteplicita' e free entry:} presenti molti compratori e venditori e nessun vincolo all'ingresso nel mercato
+		\item \textbf{assenza di potere di mercato:} nessun partecipante riesce a controllare prezzi o quantita'
+		\item \textbf{uniformita' del prodotto:} il prodotto e' omogeneo
+		\item \textbf{informazione perfetta:} tutti i partecipanti conoscono tutte le informazioni relative al mercato. Le informazioni devono essere simmetriche e complete.
+	\end{enumerate}
+	Da queste ipotesi discende:
+	\begin{itemize}
+		\item \textbf{Legge del prezzo unico:} nel mercato vige un unico prezzo
+		\item \textbf{Comportamento price taking:} compratori e venditori subiscono il prezzo di mercato
+	\end{itemize}
+	\section{La domanda di mercato}
+	\begin{itemize}
+		\item La \textit{quantita' domandata} e' l'ammontare di beni che i compratori vogliono e possono acquistare
+		\item La \textit{scheda di domanda} e' una tabella che mostra la relazione tra il prezzo del bene e la quantita' domandata
+		\item La \textit{curva di domanda} e' la linea discendente che mette in relazione prezzo e quantita' in un sistema di assi cartesiani
+	\end{itemize}
+	\subsection{Le determinanti della domanda}
+	La domanda di mercato dipende da diversi fattori, tra cui prezzo di mercato, reddito dei consumatori, prezzo dei beni collegati, gusti e aspettative dei consumatori.
+	\medskip \\Un bene normale e' un bene la cui domanda aumenta al crescere del reddito, mentre un bene inferiore e' un bene la cui domanda, al contrario, diminuisce al crescere del reddito.
+	\medskip \\Quando una diminuzione del prezzo di un bene riduce la domanda di un'altro essi si dicono sostituti, ad esempio treno e aereo; quando invece la diminuzione del prezzo di uno aumenta la domanda di un'altro vengono detti complementari.
+	\section{La curva di offerta}
+	\begin{itemize}
+		\item La \textit{quantita' offerta} e' l'ammontare di bene che i venditori possono e vogliono vendere
+		\item La \textit{scheda di offerta} e' una tabella che mostra la relazione tra il prezzo del bene e la quantita' offerta
+		\item La \textit{curva di offerta} e' la linea ascendente che mette in relazione il prezzo e la quantita' offerta
+	\end{itemize}
+	\subsection{Le determinanti dell'offerta}
+	L'offerta di mercato di un bene dipende da numerosi fattori, tra cui il prezzo di mercato, la tecnologia di produzione, il prezzo e la dotazione dei fattori di produzione, il numero di produttori/venditori, \underline{le aspettative degli imprenditori}.
+	\section{Equilibrio di mercato}
+	In un mercato l'equilibrio e' determinato dall'intersezione tra curva di domanda e curva di offerta (\textit{forbice marshalliana}). Il prezzo di equilibrio e' il prezzo che uguaglia domanda e offerta, mentre la quantita' di equilibrio e' la quantita' che eguaglia domanda e offerta.
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.7\linewidth]{forbice-marshalliana}
+		\caption[Forbice marshalliana]{Forbice marshalliana}
+		\label{fig:forbice-marshalliana}
+	\end{figure}
+	\section{Il disequilibrio}
+	Si ha un eccesso di offerta quando la quantita' offerta e' maggiore di quella domandata, ovvero quando il prezzo di mercato e' piu' alto del prezzo di equilibrio e quindi i produttori non riescono a vendere tutto a quel prezzo.
+	\medskip \\
+	SI ha invece un eccesso di domanda quando la quantita' domandata e' maggiore di quella offerta, ovvero quando il prezzo di mercato e' piu' basso del prezzo di equilibrio e quindi i consumatori non riescono ad acquistare tutto a quel prezzo.
+	\subsection{Due tipi di aggiustamento}
+	\subsubsection{Approccio walrasiano}
+	Il disequilibrio e' differenza nelle quantita' e segnala la presenza di un prezzo troppo alto/basso. Si raggiunge l'equilibrio variando il prezzo.
+	\subsubsection{Approccio marshalliano}
+	Il disequilibrio e' differenza tra prezzo d'acquisto e prezzo di vendita e segnala la presenza di una quantita' offerta troppo alta/bassa. Si arriva all'equilibrio variando la quantita'.
+	\medskip \\L'approccio walrasiano e' piu' semplice ma ha il problema istituzionale di chi fissa il prezzo di partenza; l'approccio marshalliano e' invece piu' realistico.
+	\section{La clausola \textit{ceteris paribus}}
+	Espressione impiegata dagli economisti per indicare che in una certa analisi tutte le variabili diverse da quelle in oggetto sono ipotizzate costanti. Clausola alla base del metodo di equilibrio parziale, dove si studia un singolo mercato in isolamento
 \end{document}
