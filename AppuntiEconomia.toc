@@ -1,37 +1,62 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
-\contentsline {chapter}{\numberline {1}Introduzione all'economia}{2}{chapter.1}% 
-\contentsline {section}{\numberline {1.1}Il problema economico}{2}{section.1.1}% 
-\contentsline {section}{\numberline {1.2}Input e output}{2}{section.1.2}% 
-\contentsline {section}{\numberline {1.3}Gli economisti studiano..}{2}{section.1.3}% 
-\contentsline {section}{\numberline {1.4}Micro e macroeconomia}{2}{section.1.4}% 
-\contentsline {section}{\numberline {1.5}Scelte e agenti economici}{2}{section.1.5}% 
-\contentsline {section}{\numberline {1.6}Il mercato}{3}{section.1.6}% 
-\contentsline {section}{\numberline {1.7}La concorrenza}{3}{section.1.7}% 
-\contentsline {paragraph}{Concorrenza come processo naturale}{3}{section*.2}% 
-\contentsline {paragraph}{Concorrenza come processo economico}{3}{section*.3}% 
-\contentsline {section}{\numberline {1.8}La scelta come \textit {trade-off}}{3}{section.1.8}% 
-\contentsline {section}{\numberline {1.9}Efficienza}{3}{section.1.9}% 
-\contentsline {section}{\numberline {1.10}Il costo opportunita'}{3}{section.1.10}% 
-\contentsline {section}{\numberline {1.11}La razionalita' in economia}{4}{section.1.11}% 
-\contentsline {subsection}{\numberline {1.11.1}Razionalita' come scelta al margine}{4}{subsection.1.11.1}% 
-\contentsline {subsection}{\numberline {1.11.2}Gli individui rispondono agli incentivi}{4}{subsection.1.11.2}% 
-\contentsline {section}{\numberline {1.12}Perche' scambiare?}{4}{section.1.12}% 
-\contentsline {subsection}{\numberline {1.12.1}Da cosa dipende la specializzazione}{4}{subsection.1.12.1}% 
-\contentsline {section}{\numberline {1.13}Mercato ed efficienza}{4}{section.1.13}% 
-\contentsline {section}{\numberline {1.14}Modelli economici}{4}{section.1.14}% 
-\contentsline {subsection}{\numberline {1.14.1}Modello del flusso circolare}{4}{subsection.1.14.1}% 
-\contentsline {subsection}{\numberline {1.14.2}Frontiera delle possibilita' di produzione}{5}{subsection.1.14.2}% 
-\contentsline {chapter}{\numberline {2}Il mercato}{6}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Cos'\IeC {\`e} un mercato?}{6}{section.2.1}% 
-\contentsline {section}{\numberline {2.2}Mercato di concorrenza perfetta}{6}{section.2.2}% 
-\contentsline {section}{\numberline {2.3}La domanda di mercato}{7}{section.2.3}% 
-\contentsline {subsection}{\numberline {2.3.1}Le determinanti della domanda}{7}{subsection.2.3.1}% 
-\contentsline {section}{\numberline {2.4}La curva di offerta}{7}{section.2.4}% 
-\contentsline {subsection}{\numberline {2.4.1}Le determinanti dell'offerta}{7}{subsection.2.4.1}% 
+\contentsline {chapter}{\numberline {1}Introduzione all'economia}{3}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Il problema economico}{3}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Input e output}{3}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}Gli economisti studiano..}{3}{section.1.3}% 
+\contentsline {section}{\numberline {1.4}Micro e macroeconomia}{3}{section.1.4}% 
+\contentsline {section}{\numberline {1.5}Scelte e agenti economici}{3}{section.1.5}% 
+\contentsline {section}{\numberline {1.6}Il mercato}{4}{section.1.6}% 
+\contentsline {section}{\numberline {1.7}La concorrenza}{4}{section.1.7}% 
+\contentsline {paragraph}{Concorrenza come processo naturale}{4}{section*.2}% 
+\contentsline {paragraph}{Concorrenza come processo economico}{4}{section*.3}% 
+\contentsline {section}{\numberline {1.8}La scelta come \textit {trade-off}}{4}{section.1.8}% 
+\contentsline {section}{\numberline {1.9}Efficienza}{4}{section.1.9}% 
+\contentsline {section}{\numberline {1.10}Il costo opportunita'}{4}{section.1.10}% 
+\contentsline {section}{\numberline {1.11}La razionalita' in economia}{5}{section.1.11}% 
+\contentsline {subsection}{\numberline {1.11.1}Razionalita' come scelta al margine}{5}{subsection.1.11.1}% 
+\contentsline {subsection}{\numberline {1.11.2}Gli individui rispondono agli incentivi}{5}{subsection.1.11.2}% 
+\contentsline {section}{\numberline {1.12}Perche' scambiare?}{5}{section.1.12}% 
+\contentsline {subsection}{\numberline {1.12.1}Da cosa dipende la specializzazione}{5}{subsection.1.12.1}% 
+\contentsline {section}{\numberline {1.13}Mercato ed efficienza}{5}{section.1.13}% 
+\contentsline {section}{\numberline {1.14}Modelli economici}{5}{section.1.14}% 
+\contentsline {subsection}{\numberline {1.14.1}Modello del flusso circolare}{5}{subsection.1.14.1}% 
+\contentsline {subsection}{\numberline {1.14.2}Frontiera delle possibilita' di produzione}{6}{subsection.1.14.2}% 
+\contentsline {chapter}{\numberline {2}Il mercato}{7}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Cos'\IeC {\`e} un mercato?}{7}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Mercato di concorrenza perfetta}{7}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}La domanda di mercato}{8}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Le determinanti della domanda}{8}{subsection.2.3.1}% 
+\contentsline {section}{\numberline {2.4}La curva di offerta}{8}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}Le determinanti dell'offerta}{8}{subsection.2.4.1}% 
 \contentsline {section}{\numberline {2.5}Equilibrio di mercato}{8}{section.2.5}% 
-\contentsline {section}{\numberline {2.6}Il disequilibrio}{8}{section.2.6}% 
-\contentsline {subsection}{\numberline {2.6.1}Due tipi di aggiustamento}{8}{subsection.2.6.1}% 
-\contentsline {subsubsection}{Approccio walrasiano}{8}{section*.4}% 
-\contentsline {subsubsection}{Approccio marshalliano}{8}{section*.5}% 
+\contentsline {section}{\numberline {2.6}Il disequilibrio}{9}{section.2.6}% 
+\contentsline {subsection}{\numberline {2.6.1}Due tipi di aggiustamento}{9}{subsection.2.6.1}% 
+\contentsline {subsubsection}{Approccio walrasiano}{9}{section*.4}% 
+\contentsline {subsubsection}{Approccio marshalliano}{9}{section*.5}% 
 \contentsline {section}{\numberline {2.7}La clausola \textit {ceteris paribus}}{9}{section.2.7}% 
+\contentsline {chapter}{\numberline {3}Il monopolio}{10}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Introduzione al monopolio}{10}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Caratteristiche del monopolio}{10}{subsection.3.1.1}% 
+\contentsline {subsection}{\numberline {3.1.2}Perch\IeC {\'e} esiste il monopolio?}{10}{subsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.1.3}Il monopolio naturale}{10}{subsection.3.1.3}% 
+\contentsline {subsection}{\numberline {3.1.4}Monopolio \textit {versus} concorrenza perfetta}{11}{subsection.3.1.4}% 
+\contentsline {subsection}{\numberline {3.1.5}La massimizzazione del profitto del monopolista}{11}{subsection.3.1.5}% 
+\contentsline {subsection}{\numberline {3.1.6}Politiche pubbliche anti-monopolio}{11}{subsection.3.1.6}% 
+\contentsline {subsection}{\numberline {3.1.7}La discriminazione di prezzo}{11}{subsection.3.1.7}% 
+\contentsline {section}{\numberline {3.2}Concorrenza monopolistica}{12}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}L'impresa MC nel breve periodo}{12}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}L'ingresso di nuove imprese}{12}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}L'equilibrio di lungo periodo}{12}{subsection.3.2.3}% 
+\contentsline {subsubsection}{Capacita' in eccesso}{12}{section*.6}% 
+\contentsline {subsection}{\numberline {3.2.4}Pubblicita' e marchi}{13}{subsection.3.2.4}% 
+\contentsline {section}{\numberline {3.3}Oligopolio}{13}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}Un nuovo tipo di razionalita'}{13}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.2}Caratteristica dell'oligopolio}{13}{subsection.3.3.2}% 
+\contentsline {subsubsection}{La teoria dei giochi}{13}{section*.7}% 
+\contentsline {subsection}{\numberline {3.3.3}Il caso piu' semplice: il duopolio}{13}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.4}Collusione}{13}{subsection.3.3.4}% 
+\contentsline {subsubsection}{Equilibrio di Nash}{14}{section*.8}% 
+\contentsline {subsection}{\numberline {3.3.5}L'esito di un mercato oligopolistico}{14}{subsection.3.3.5}% 
+\contentsline {subsection}{\numberline {3.3.6}La politica economica e l'oligopolio}{14}{subsection.3.3.6}% 
+\contentsline {subsubsection}{Due problemi per l'antitrust}{14}{section*.9}% 
