@@ -1,0 +1,25 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {chapter}{\numberline {1}Introduzione all'economia}{2}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Il problema economico}{2}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Input e output}{2}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}Gli economisti studiano..}{2}{section.1.3}% 
+\contentsline {section}{\numberline {1.4}Micro e macroeconomia}{2}{section.1.4}% 
+\contentsline {section}{\numberline {1.5}Scelte e agenti economici}{3}{section.1.5}% 
+\contentsline {section}{\numberline {1.6}Il mercato}{3}{section.1.6}% 
+\contentsline {section}{\numberline {1.7}La concorrenza}{3}{section.1.7}% 
+\contentsline {paragraph}{Concorrenza come processo naturale}{3}{section*.2}% 
+\contentsline {paragraph}{Concorrenza come processo economico}{3}{section*.3}% 
+\contentsline {section}{\numberline {1.8}La scelta come \textit {trade-off}}{4}{section.1.8}% 
+\contentsline {section}{\numberline {1.9}Efficienza}{4}{section.1.9}% 
+\contentsline {section}{\numberline {1.10}Il costo opportunita'}{4}{section.1.10}% 
+\contentsline {section}{\numberline {1.11}La razionalita' in economia}{4}{section.1.11}% 
+\contentsline {subsection}{\numberline {1.11.1}Razionalita' come scelta al margine}{4}{subsection.1.11.1}% 
+\contentsline {subsection}{\numberline {1.11.2}Gli individui rispondono agli incentivi}{4}{subsection.1.11.2}% 
+\contentsline {section}{\numberline {1.12}Perche' scambiare?}{5}{section.1.12}% 
+\contentsline {subsection}{\numberline {1.12.1}Da cosa dipende la specializzazione}{5}{subsection.1.12.1}% 
+\contentsline {section}{\numberline {1.13}Mercato ed efficienza}{5}{section.1.13}% 
+\contentsline {section}{\numberline {1.14}Modelli economici}{5}{section.1.14}% 
+\contentsline {subsection}{\numberline {1.14.1}Modello del flusso circolare}{5}{subsection.1.14.1}% 
+\contentsline {subsection}{\numberline {1.14.2}Frontiera delle possibilita' di produzione}{6}{subsection.1.14.2}% 
+\contentsline {chapter}{\numberline {2}2}{7}{chapter.2}% 
