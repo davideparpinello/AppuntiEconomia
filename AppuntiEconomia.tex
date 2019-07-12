@@ -13,15 +13,9 @@
 \renewcommand{\familydefault}{\sfdefault}
 \usepackage[a4paper,includeheadfoot,margin=2.54cm]{geometry}
 \usepackage{fancyhdr}
+\newcommand\hr{\par\vspace{-.5\ht\strutbox}\noindent\hrulefill\par}
 
-\pagestyle{fancy}
-\fancyhf{}
-\rhead{Economia ed Innovazione d'Impresa}
-\lhead{\leftmark}
-\rfoot{\thepage}
 
-\renewcommand{\chaptermark}[1]{%
-	\markboth{#1}{}}
 
 \begin{document}
 	
@@ -35,6 +29,14 @@
 	\maketitle
 	
 	\tableofcontents
+	\renewcommand{\chaptermark}[1]{%
+		\markboth{#1}{}}
+	\addtocontents{toc}{\protect\hypertarget{toc}{}}
+	\pagestyle{fancy}
+	\fancyhf{}
+	\rhead{\hyperlink{toc}{Economia ed Innovazione d'Impresa}}
+	\lhead{\leftmark}
+	\rfoot{\thepage}
 	
 	\chapter{Introduzione all'economia}
 	\section{Il problema economico}
@@ -578,5 +580,75 @@
 	\subsection{Il ciclo economico}
 	Alternanza di recessioni (periodi di diminuzione di produzione e occupazione) ed espansioni (periodi di rialzo dell'economia).\\
 	
+	\chapter{Il bilancio}
+	\paragraph{Esercizio} Unita' economica e temporale di cui si ritiene significativo determinare i risultati della trasformazione economica.
+	\medskip \\I risultati non hanno significato compiuto se non si considera anche la struttura del capitale a inizio esercizio.
+	\medskip \\Per operare efficacemente le organizzazioni hanno bisogno di conoscere quante risorse stanno impiegando nelle diverse attivita' e se il loro utilizzo e' economicamente conveniente. Le stesse informazioni sono necessarie agli attori esterni per esprimere un giudizio sulle organizzazioni e legittimarle.
+	\paragraph{Contabilita'} Processo di rilevazione, misurazione, analisi, interpretazione e comunicazione di informazioni che consentono agli utilizzatori di formulare giudizi e valutazioni sull'impresa.
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.7\linewidth]{classificazione-informazioni}
+		\caption{Classificazione delle informazioni aziendali}
+		\label{fig:classificazione-informazioni}
+	\end{figure}
+	\section{Le informazioni} I sistemi contabili trattano informazioni quantitative, espresse in termini monetari.
+	\paragraph{Informazioni contabili operative} Principale fonte di dati elementari per la formazione del bilancio, per fornire informazioni al management e per poter pagare le imposte.
+	\paragraph{Informazioni di bilancio} Usate sia dal management che da terzi. Le regole di redazione del bilancio sono date dal codice civile e dalla prassi contabile.
+	\paragraph{Informazioni per il management} Informazioni utilizzate nell'ambito delle tipiche funzioni di management (programmazione).
+	\paragraph{Informazioni fiscali} Informazioni necessarie per determinare il reddito civilistico, diverso da quello sulle imposte.
+	\section{Principi contabili}
+	\subsection{Criteri per la formulazione dei principi contabili}
+	\begin{enumerate}
+		\item \textbf{Rilevanza:} se produce informazioni importanti e utili riguardo a un impresa
+		\item \textbf{Oggettivita':} se produce informazioni non influenzate dal giudizio di chi le fornisce
+		\item \textbf{Fattibilita':} se puo' essere implementato senza eccessivi costi o complessita'.
+	\end{enumerate}
+	\subsection{Fonti dei principi contabili}
+	In Italia la prassi contabile e' definita dall'Organismo italiano di Contabilita'. A livello internazionale criteri e principi sono emanati dallo IASB e sono denominati \textbf{IFRS} (International Financial Reporting Standard).
+	\section{I rendiconti economico-finanziari}
+	La finalita' ultima del processo contabile e' la produzione di documenti o rendiconti economico-finanziari che riassumono i dati della contabilita' sintetizzando i risultati di gestione
+	\begin{enumerate}
+		\item lo stato patrimoniale
+		\item il conto economico
+		\item il rendiconto finanziario (non obbligatorio se non quotata in borsa)
+		\item la nota integrativa
+	\end{enumerate}
+	\section{Le funzioni del bilancio}
+	Il bilancio (documento amministrativo) svolge tre funzioni:
+	\begin{itemize}
+		\item intrinseca, di determinazione, del risultato economico prodotto e del correlato capitale di funzionamento, nonche' del flusso del cash flow;
+		\item estrinseca, di informazione ai terzi dei risultati determinati;
+		\item strumentale, di apprezzamento della gestione da parte dei terzi.
+	\end{itemize}
+	\subsection{Funzione intrinseca}
+	Il Bilancio dovrebbe essere formato da tre conti di sintesi:
+	\begin{itemize}
+		\item Conto Economico
+		\item Stato Patrimoniale
+		\item Rendiconto Finanziario
+	\end{itemize}
+	Viene redatto dagli amministratori per rendere conto del loro operato. Il bilancio-rendiconto e' tale solo se deriva da una contabilita' ben impostata.
+	\subsection{Funzione estrinseca}
+	Il Bilancio e' un documento di informazione sui risultati economici prodotti dalla gestione, destinate ai terzi (soggetti esterni alla black box aziendale).
+	\subsection{Bilancio e apprezzamento}
+	\paragraph{Apprezzamento} Indagine volta a esprimere un giudizio, favorevole e sfavorevole, sull'impresa in funzionamento, sulle performance gestionali, sulla fitness aziendale.
+	\medskip \\Per questo, tutti i lettori del bilancio fanno una prima analisi che consiste nell'interpretazione analitica delle voci, aiutandosi con le informazioni contenute nei documenti, con le loro conoscenze di economia e ragioneria e con informazioni esterne (es. borsa).
+	\paragraph{Documento vincolato} Il bilancio non puo' essere redatto in modo arbitrario, ma deve seguire regole che consentano la determinazione affidabile e l'interpretazione significativa dei dati che contiene. Deve rispettare quindi vincoli tecnico-contabili e vincoli giuridici.
+	\section{La rappresentazione contabile dei valori}
+	I valori consentono di determinare il risultato economico di un esercizio temporale e lo Stato dei capitali al termine dell'anno stesso.\medskip \\\underline{Risultato economico} e \underline{Stato dei capitali} sono calcolati in due conti di sintesi: lo \textbf{stato patrimoniale}, che espone la sintesi dei valori del capitale investito e quello reperito; il \textbf{conto economico}, che espone la sintesi dei valori della produzione ottenuta e del costo della produzione.
+	\subsection{Il sistema dei valori}
+	I due conti devono essere sempre formati, letti e analizzati congiuntamente poiche' rappresentano il sistema dei valori della trasformazione economica e finanziaria dell'impresa.
+	\medskip \\Formano pertanto un micro sistema contabile di valori correlati (se ne varia uno deve per forza variarne almeno un'altro).
+	\section{Lo stato patrimoniale}
+	\subsection{Le aree dello stato patrimoniale}
+	\begin{itemize}
+		\item \textbf{Attivita':} risorse economiche possedute dall'azienda che hanno un valore economico e dalle quali ci si attende un beneficio futuro.
+		\hr
+		\item \textbf{Passivita' e capitale netto:} fonti di finanziamento per l'impresa che hanno consentito l'acquisto delle attivita'.
+		\medskip \\Sono debiti nei confronti di terzi. I creditori hanno diritti prioritari sulle attivita' pari ai loro crediti e possono chiedere il fallimento dell'azienda se non onora i debiti.
+		\item \textbf{Capitale netto:} fonti di denaro apportate direttamente dalla proprieta' e dalle riserve di utili generati attraverso la gestione e non distribuiti sotto forma di dividendo.
+	\end{itemize}
+	\subsection{I dieci principi del processo contabile}
+	\subsubsection{Il principio del duplice aspetto}
 	
 \end{document}
