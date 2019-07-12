@@ -111,3 +111,48 @@
 \contentsline {paragraph}{Nella grande impresa}{26}{section*.18}% 
 \contentsline {paragraph}{Nelle aziende composte pubbliche}{26}{section*.19}% 
 \contentsline {subsection}{\numberline {6.4.1}Gli stakeholder}{26}{subsection.6.4.1}% 
+\contentsline {chapter}{\numberline {7}Introduzione alla macroeconomia}{27}{chapter.7}% 
+\contentsline {paragraph}{I dati}{27}{section*.20}% 
+\contentsline {section}{\numberline {7.1}Le misurazioni economiche}{27}{section.7.1}% 
+\contentsline {paragraph}{Alcune definizioni}{27}{section*.21}% 
+\contentsline {section}{\numberline {7.2}Prodotto interno lordo (PIL)}{27}{section.7.2}% 
+\contentsline {subsection}{\numberline {7.2.1}Misure alternative della ricchezza}{27}{subsection.7.2.1}% 
+\contentsline {subsection}{\numberline {7.2.2}Calcolo del PIL}{28}{subsection.7.2.2}% 
+\contentsline {subsection}{\numberline {7.2.3}PIL reale e nominale}{28}{subsection.7.2.3}% 
+\contentsline {subsubsection}{Il PIL reale tiene conto dell'inflazione}{28}{section*.22}% 
+\contentsline {subsection}{\numberline {7.2.4}PIL pro capite}{28}{subsection.7.2.4}% 
+\contentsline {section}{\numberline {7.3}Indice dei prezzi e tasso di inflazione}{28}{section.7.3}% 
+\contentsline {subsection}{\numberline {7.3.1}Alcune definizioni}{28}{subsection.7.3.1}% 
+\contentsline {subsection}{\numberline {7.3.2}L'inflazione}{29}{subsection.7.3.2}% 
+\contentsline {section}{\numberline {7.4}La disoccupazione}{29}{section.7.4}% 
+\contentsline {subsection}{\numberline {7.4.1}Concetti base}{29}{subsection.7.4.1}% 
+\contentsline {subsection}{\numberline {7.4.2}Problemi di misurazione della disoccupazione}{30}{subsection.7.4.2}% 
+\contentsline {subsection}{\numberline {7.4.3}Tipi di disoccupazione}{30}{subsection.7.4.3}% 
+\contentsline {paragraph}{Disoccupazione frizionale}{30}{section*.23}% 
+\contentsline {paragraph}{Disoccupazione strutturale}{30}{section*.24}% 
+\contentsline {section}{\numberline {7.5}Moneta e sistema bancario}{30}{section.7.5}% 
+\contentsline {subsection}{\numberline {7.5.1}Le funzioni della moneta}{30}{subsection.7.5.1}% 
+\contentsline {paragraph}{Mezzo di scambio}{30}{section*.25}% 
+\contentsline {paragraph}{Unita' di conto}{31}{section*.26}% 
+\contentsline {paragraph}{Riserva di valore}{31}{section*.27}% 
+\contentsline {subsection}{\numberline {7.5.2}La domanda di moneta}{31}{subsection.7.5.2}% 
+\contentsline {paragraph}{Domanda di moneta a scopo transattivo}{31}{section*.28}% 
+\contentsline {paragraph}{Domanda di moneta a scopo speculativo o precauzionale}{31}{section*.29}% 
+\contentsline {section}{\numberline {7.6}La Banca Centrale}{31}{section.7.6}% 
+\contentsline {subsection}{\numberline {7.6.1}Le funzioni della Banca Centrale}{31}{subsection.7.6.1}% 
+\contentsline {paragraph}{Politica monetaria}{31}{section*.30}% 
+\contentsline {paragraph}{Vigilanza}{31}{section*.31}% 
+\contentsline {paragraph}{Gestione del sistema di pagamenti}{31}{section*.32}% 
+\contentsline {paragraph}{Banca dello Stato}{31}{section*.33}% 
+\contentsline {paragraph}{Banca delle banche}{31}{section*.34}% 
+\contentsline {subsection}{\numberline {7.6.2}Il sistema europeo di banche centrali e l'Eurosistema}{32}{subsection.7.6.2}% 
+\contentsline {section}{\numberline {7.7}Il settore bancario}{32}{section.7.7}% 
+\contentsline {subsection}{\numberline {7.7.1}Fiducia e corsa agli sportelli}{32}{subsection.7.7.1}% 
+\contentsline {section}{\numberline {7.8}Il sistema finanziario}{32}{section.7.8}% 
+\contentsline {subsection}{\numberline {7.8.1}Mercato obbligazionario}{32}{subsection.7.8.1}% 
+\contentsline {paragraph}{Obbligazione}{32}{section*.35}% 
+\contentsline {subsection}{\numberline {7.8.2}Mercato azionario e azione}{33}{subsection.7.8.2}% 
+\contentsline {subsection}{\numberline {7.8.3}Intermediari finanziari}{33}{subsection.7.8.3}% 
+\contentsline {section}{\numberline {7.9}Macroeconomia vs microeconomia}{33}{section.7.9}% 
+\contentsline {paragraph}{Paradosso della parsimonia}{33}{section*.36}% 
+\contentsline {subsection}{\numberline {7.9.1}Il ciclo economico}{33}{subsection.7.9.1}% 
