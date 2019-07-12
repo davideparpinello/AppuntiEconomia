@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.10)  12 JUL 2019 12:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.10)  12 JUL 2019 16:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -360,14 +360,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.47 ...oncorrenza monopolistica}{12}{section.3.2}
+l.47 ...oncorrenza monopolistica}{13}{section.3.2}
                                                   % [1
 
-])
+] [2])
 \tf@toc=\write4
 \openout4 = `AppuntiEconomia.toc'.
 
- [2]
+ [3]
 Capitolo 1.
 LaTeX Font Info:    Try loading font information for OMS+cmss on input line 47.
 
@@ -377,22 +377,22 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbullet' on input line 47.
 
-[3
+[4
 
 ]
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 74.
 
-[4]
-<flusso-circolare.png, id=510, 1022.82124pt x 621.32124pt>
+[5]
+<flusso-circolare.png, id=593, 1022.82124pt x 621.32124pt>
 File: flusso-circolare.png Graphic file (type png)
 <use flusso-circolare.png>
 Package pdftex.def Info: flusso-circolare.png  used on input line 105.
 (pdftex.def)             Requested size: 317.0764pt x 192.60759pt.
- [5] [6 <./flusso-circolare.png>]
+ [6] [7 <./flusso-circolare.png>]
 Capitolo 2.
-[7
+[8
 
 ]
 
@@ -400,7 +400,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <12> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 141.
 
 
-<forbice-marshalliana.png, id=531, 981.6675pt x 578.16pt>
+<forbice-marshalliana.png, id=614, 981.6675pt x 578.16pt>
 File: forbice-marshalliana.png Graphic file (type png)
 <use forbice-marshalliana.png>
 Package pdftex.def Info: forbice-marshalliana.png  used on input line 161.
@@ -408,40 +408,59 @@ Package pdftex.def Info: forbice-marshalliana.png  used on input line 161.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8] [9 <./forbice-marshalliana.png>]
+[9] [10 <./forbice-marshalliana.png>]
 Capitolo 3.
-[10
+[11
 
-] [11] [12] [13] [14]
+] [12] [13] [14] [15]
 Capitolo 4.
-[15
+[16
 
-] [16] [17] [18]
+] [17] [18] [19]
 Capitolo 5.
-[19
+[20
 
-] [20]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 384.
- [21]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 384.
+] [21] [22]
+Capitolo 6.
+<imprenditore-impresa-societa.png, id=692, 1073.00874pt x 799.98875pt>
+File: imprenditore-impresa-societa.png Graphic file (type png)
+<use imprenditore-impresa-societa.png>
+Package pdftex.def Info: imprenditore-impresa-societa.png  used on input line 4
+04.
+(pdftex.def)             Requested size: 317.0764pt x 236.39746pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23
+
+] [24 <./imprenditore-impresa-societa.png>] [25]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 439.
+ [26]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 439.
  (./AppuntiEconomia.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 384.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 384.
-Package rerunfilecheck Info: File `AppuntiEconomia.out' has not changed.
-(rerunfilecheck)             Checksum: DFCA7BBE83CFA9EE1F6AE85B2739C615;6047.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 439.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 439.
 
+
+Package rerunfilecheck Warning: File `AppuntiEconomia.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `AppuntiEconomia.out':
+(rerunfilecheck)             Before: 78456203C7C0584599F8A5F69B4EA49F;7090
+(rerunfilecheck)             After:  2A3A69CC67DDE2AC5450E6703CDA6C7C;7159.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 6769 strings out of 492616
- 98317 string characters out of 6129481
- 214881 words of memory out of 5000000
- 10513 multiletter control sequences out of 15000+600000
+ 6818 strings out of 492616
+ 99089 string characters out of 6129481
+ 216960 words of memory out of 5000000
+ 10531 multiletter control sequences out of 15000+600000
  10398 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,11n,43p,814b,491s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,12n,43p,814b,491s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
 /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
@@ -452,10 +471,10 @@ local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr
 /local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr
 /local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr
 /local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on AppuntiEconomia.pdf (22 pages, 348455 bytes).
+Output written on AppuntiEconomia.pdf (27 pages, 1449750 bytes).
 PDF statistics:
- 672 PDF objects out of 1000 (max. 8388607)
- 627 compressed objects within 7 object streams
- 122 named destinations out of 1000 (max. 500000)
- 643 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 792 PDF objects out of 1000 (max. 8388607)
+ 739 compressed objects within 8 object streams
+ 152 named destinations out of 1000 (max. 500000)
+ 752 words of extra memory for PDF output out of 10000 (max. 10000000)
 

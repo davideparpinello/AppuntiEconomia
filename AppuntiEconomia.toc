@@ -1,89 +1,113 @@
 \babel@toc {italian}{}
 \babel@toc {italian}{}
-\contentsline {chapter}{\numberline {1}Introduzione all'economia}{3}{chapter.1}% 
-\contentsline {section}{\numberline {1.1}Il problema economico}{3}{section.1.1}% 
-\contentsline {section}{\numberline {1.2}Input e output}{3}{section.1.2}% 
-\contentsline {section}{\numberline {1.3}Gli economisti studiano..}{3}{section.1.3}% 
-\contentsline {section}{\numberline {1.4}Micro e macroeconomia}{3}{section.1.4}% 
-\contentsline {section}{\numberline {1.5}Scelte e agenti economici}{3}{section.1.5}% 
-\contentsline {section}{\numberline {1.6}Il mercato}{4}{section.1.6}% 
-\contentsline {section}{\numberline {1.7}La concorrenza}{4}{section.1.7}% 
-\contentsline {paragraph}{Concorrenza come processo naturale}{4}{section*.2}% 
-\contentsline {paragraph}{Concorrenza come processo economico}{4}{section*.3}% 
-\contentsline {section}{\numberline {1.8}La scelta come \textit {trade-off}}{4}{section.1.8}% 
-\contentsline {section}{\numberline {1.9}Efficienza}{4}{section.1.9}% 
-\contentsline {section}{\numberline {1.10}Il costo opportunit\IeC {\`a}}{4}{section.1.10}% 
-\contentsline {section}{\numberline {1.11}La razionalit\IeC {\`a} in economia}{5}{section.1.11}% 
-\contentsline {subsection}{\numberline {1.11.1}Razionalit\IeC {\`a} come scelta al margine}{5}{subsection.1.11.1}% 
-\contentsline {subsection}{\numberline {1.11.2}Gli individui rispondono agli incentivi}{5}{subsection.1.11.2}% 
-\contentsline {section}{\numberline {1.12}Perch\IeC {\'e} scambiare?}{5}{section.1.12}% 
-\contentsline {subsection}{\numberline {1.12.1}Da cosa dipende la specializzazione}{5}{subsection.1.12.1}% 
-\contentsline {section}{\numberline {1.13}Mercato ed efficienza}{5}{section.1.13}% 
-\contentsline {section}{\numberline {1.14}Modelli economici}{5}{section.1.14}% 
-\contentsline {subsection}{\numberline {1.14.1}Modello del flusso circolare}{5}{subsection.1.14.1}% 
-\contentsline {subsection}{\numberline {1.14.2}Frontiera delle possibilit\IeC {\`a} di produzione}{6}{subsection.1.14.2}% 
-\contentsline {chapter}{\numberline {2}Il mercato}{7}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Cos'\IeC {\`e} un mercato?}{7}{section.2.1}% 
-\contentsline {section}{\numberline {2.2}Mercato di concorrenza perfetta}{7}{section.2.2}% 
-\contentsline {section}{\numberline {2.3}La domanda di mercato}{8}{section.2.3}% 
-\contentsline {subsection}{\numberline {2.3.1}Le determinanti della domanda}{8}{subsection.2.3.1}% 
-\contentsline {section}{\numberline {2.4}La curva di offerta}{8}{section.2.4}% 
-\contentsline {subsection}{\numberline {2.4.1}Le determinanti dell'offerta}{8}{subsection.2.4.1}% 
-\contentsline {section}{\numberline {2.5}Equilibrio di mercato}{8}{section.2.5}% 
-\contentsline {section}{\numberline {2.6}Il disequilibrio}{9}{section.2.6}% 
-\contentsline {subsection}{\numberline {2.6.1}Due tipi di aggiustamento}{9}{subsection.2.6.1}% 
-\contentsline {subsubsection}{Approccio walrasiano}{9}{section*.4}% 
-\contentsline {subsubsection}{Approccio marshalliano}{9}{section*.5}% 
-\contentsline {section}{\numberline {2.7}La clausola \textit {ceteris paribus}}{9}{section.2.7}% 
-\contentsline {chapter}{\numberline {3}Il monopolio}{10}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Introduzione al monopolio}{10}{section.3.1}% 
-\contentsline {subsection}{\numberline {3.1.1}Caratteristiche del monopolio}{10}{subsection.3.1.1}% 
-\contentsline {subsection}{\numberline {3.1.2}Perch\IeC {\'e} esiste il monopolio?}{10}{subsection.3.1.2}% 
-\contentsline {subsection}{\numberline {3.1.3}Il monopolio naturale}{10}{subsection.3.1.3}% 
-\contentsline {subsection}{\numberline {3.1.4}Monopolio \textit {versus} concorrenza perfetta}{11}{subsection.3.1.4}% 
-\contentsline {subsection}{\numberline {3.1.5}La massimizzazione del profitto del monopolista}{11}{subsection.3.1.5}% 
-\contentsline {subsection}{\numberline {3.1.6}Politiche pubbliche anti-monopolio}{11}{subsection.3.1.6}% 
-\contentsline {subsection}{\numberline {3.1.7}La discriminazione di prezzo}{11}{subsection.3.1.7}% 
-\contentsline {section}{\numberline {3.2}Concorrenza monopolistica}{12}{section.3.2}% 
-\contentsline {subsection}{\numberline {3.2.1}L'impresa MC nel breve periodo}{12}{subsection.3.2.1}% 
-\contentsline {subsection}{\numberline {3.2.2}L'ingresso di nuove imprese}{12}{subsection.3.2.2}% 
-\contentsline {subsection}{\numberline {3.2.3}L'equilibrio di lungo periodo}{12}{subsection.3.2.3}% 
-\contentsline {subsubsection}{Capacit\IeC {\`a} in eccesso}{12}{section*.6}% 
-\contentsline {subsection}{\numberline {3.2.4}Pubblicit\IeC {\`a} e marchi}{13}{subsection.3.2.4}% 
-\contentsline {section}{\numberline {3.3}Oligopolio}{13}{section.3.3}% 
-\contentsline {subsection}{\numberline {3.3.1}Un nuovo tipo di razionalit\IeC {\`a}}{13}{subsection.3.3.1}% 
-\contentsline {subsection}{\numberline {3.3.2}Caratteristica dell'oligopolio}{13}{subsection.3.3.2}% 
-\contentsline {subsubsection}{La teoria dei giochi}{13}{section*.7}% 
-\contentsline {subsection}{\numberline {3.3.3}Il caso pi\IeC {\`u} semplice: il duopolio}{13}{subsection.3.3.3}% 
-\contentsline {subsection}{\numberline {3.3.4}Collusione}{13}{subsection.3.3.4}% 
-\contentsline {subsubsection}{Equilibrio di Nash}{14}{section*.8}% 
-\contentsline {subsection}{\numberline {3.3.5}L'esito di un mercato oligopolistico}{14}{subsection.3.3.5}% 
-\contentsline {subsection}{\numberline {3.3.6}La politica economica e l'oligopolio}{14}{subsection.3.3.6}% 
-\contentsline {subsubsection}{Due problemi per l'antitrust}{14}{section*.9}% 
-\contentsline {chapter}{\numberline {4}Scelte dell'imprenditore: produzione e costi}{15}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Le scelte dell'imprenditore}{15}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}La funzione di produzione}{15}{section.4.2}% 
-\contentsline {section}{\numberline {4.3}Prodotto marginale decrescente}{16}{section.4.3}% 
-\contentsline {section}{\numberline {4.4}L'impresa multiprodotto e la Frontiera delle possibilit\IeC {\`a} di produzione}{16}{section.4.4}% 
-\contentsline {subsection}{\numberline {4.4.1}La massimizzazione del profitto}{16}{subsection.4.4.1}% 
-\contentsline {section}{\numberline {4.5}I costi di produzione e il profitto}{16}{section.4.5}% 
-\contentsline {subsection}{\numberline {4.5.1}Costi fissi e variabili}{16}{subsection.4.5.1}% 
-\contentsline {subsection}{\numberline {4.5.2}Costo marginale}{17}{subsection.4.5.2}% 
-\contentsline {subsection}{\numberline {4.5.3}Relazione tra costi medi e marginali}{17}{subsection.4.5.3}% 
-\contentsline {section}{\numberline {4.6}Economie di scala}{17}{section.4.6}% 
-\contentsline {subsection}{\numberline {4.6.1}Economie di scala reali (tecniche)}{17}{subsection.4.6.1}% 
-\contentsline {subsection}{\numberline {4.6.2}Economie di scala pecuniarie}{17}{subsection.4.6.2}% 
-\contentsline {subsection}{\numberline {4.6.3}Economie di scopo (o di produzione congiunta)}{18}{subsection.4.6.3}% 
-\contentsline {section}{\numberline {4.7}Diseconomie di scala}{18}{section.4.7}% 
-\contentsline {subsection}{\numberline {4.7.1}Valutazione della tecnica produttiva pi\IeC {\`u} conveniente}{18}{subsection.4.7.1}% 
-\contentsline {subsection}{\numberline {4.7.2}Isoquanti e isocosti}{18}{subsection.4.7.2}% 
-\contentsline {chapter}{\numberline {5}Le barriere all'entrata}{19}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Introduzione}{19}{section.5.1}% 
-\contentsline {section}{\numberline {5.2}Differenziazione di prodotto}{19}{section.5.2}% 
-\contentsline {section}{\numberline {5.3}Costi di cambiamento o di riconversione}{20}{section.5.3}% 
-\contentsline {section}{\numberline {5.4}Esternalit\IeC {\`a} di rete}{20}{section.5.4}% 
-\contentsline {section}{\numberline {5.5}Barriere legali}{20}{section.5.5}% 
-\contentsline {section}{\numberline {5.6}Barriere geografiche}{20}{section.5.6}% 
-\contentsline {section}{\numberline {5.7}Barriere di tipo finanziario}{20}{section.5.7}% 
-\contentsline {section}{\numberline {5.8}Difficolt\IeC {\`a} di accesso ai canali distributivi}{21}{section.5.8}% 
-\contentsline {section}{\numberline {5.9}Strategie di diffusione all'entrata}{21}{section.5.9}% 
+\contentsline {chapter}{\numberline {1}Introduzione all'economia}{4}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Il problema economico}{4}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Input e output}{4}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}Gli economisti studiano..}{4}{section.1.3}% 
+\contentsline {section}{\numberline {1.4}Micro e macroeconomia}{4}{section.1.4}% 
+\contentsline {section}{\numberline {1.5}Scelte e agenti economici}{4}{section.1.5}% 
+\contentsline {section}{\numberline {1.6}Il mercato}{5}{section.1.6}% 
+\contentsline {section}{\numberline {1.7}La concorrenza}{5}{section.1.7}% 
+\contentsline {paragraph}{Concorrenza come processo naturale}{5}{section*.2}% 
+\contentsline {paragraph}{Concorrenza come processo economico}{5}{section*.3}% 
+\contentsline {section}{\numberline {1.8}La scelta come \textit {trade-off}}{5}{section.1.8}% 
+\contentsline {section}{\numberline {1.9}Efficienza}{5}{section.1.9}% 
+\contentsline {section}{\numberline {1.10}Il costo opportunit\IeC {\`a}}{5}{section.1.10}% 
+\contentsline {section}{\numberline {1.11}La razionalit\IeC {\`a} in economia}{6}{section.1.11}% 
+\contentsline {subsection}{\numberline {1.11.1}Razionalit\IeC {\`a} come scelta al margine}{6}{subsection.1.11.1}% 
+\contentsline {subsection}{\numberline {1.11.2}Gli individui rispondono agli incentivi}{6}{subsection.1.11.2}% 
+\contentsline {section}{\numberline {1.12}Perch\IeC {\'e} scambiare?}{6}{section.1.12}% 
+\contentsline {subsection}{\numberline {1.12.1}Da cosa dipende la specializzazione}{6}{subsection.1.12.1}% 
+\contentsline {section}{\numberline {1.13}Mercato ed efficienza}{6}{section.1.13}% 
+\contentsline {section}{\numberline {1.14}Modelli economici}{6}{section.1.14}% 
+\contentsline {subsection}{\numberline {1.14.1}Modello del flusso circolare}{6}{subsection.1.14.1}% 
+\contentsline {subsection}{\numberline {1.14.2}Frontiera delle possibilit\IeC {\`a} di produzione}{7}{subsection.1.14.2}% 
+\contentsline {chapter}{\numberline {2}Il mercato}{8}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Cos'\IeC {\`e} un mercato?}{8}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Mercato di concorrenza perfetta}{8}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}La domanda di mercato}{9}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Le determinanti della domanda}{9}{subsection.2.3.1}% 
+\contentsline {section}{\numberline {2.4}La curva di offerta}{9}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}Le determinanti dell'offerta}{9}{subsection.2.4.1}% 
+\contentsline {section}{\numberline {2.5}Equilibrio di mercato}{9}{section.2.5}% 
+\contentsline {section}{\numberline {2.6}Il disequilibrio}{10}{section.2.6}% 
+\contentsline {subsection}{\numberline {2.6.1}Due tipi di aggiustamento}{10}{subsection.2.6.1}% 
+\contentsline {subsubsection}{Approccio walrasiano}{10}{section*.4}% 
+\contentsline {subsubsection}{Approccio marshalliano}{10}{section*.5}% 
+\contentsline {section}{\numberline {2.7}La clausola \textit {ceteris paribus}}{10}{section.2.7}% 
+\contentsline {chapter}{\numberline {3}Il monopolio}{11}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Introduzione al monopolio}{11}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Caratteristiche del monopolio}{11}{subsection.3.1.1}% 
+\contentsline {subsection}{\numberline {3.1.2}Perch\IeC {\'e} esiste il monopolio?}{11}{subsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.1.3}Il monopolio naturale}{11}{subsection.3.1.3}% 
+\contentsline {subsection}{\numberline {3.1.4}Monopolio \textit {versus} concorrenza perfetta}{12}{subsection.3.1.4}% 
+\contentsline {subsection}{\numberline {3.1.5}La massimizzazione del profitto del monopolista}{12}{subsection.3.1.5}% 
+\contentsline {subsection}{\numberline {3.1.6}Politiche pubbliche anti-monopolio}{12}{subsection.3.1.6}% 
+\contentsline {subsection}{\numberline {3.1.7}La discriminazione di prezzo}{12}{subsection.3.1.7}% 
+\contentsline {section}{\numberline {3.2}Concorrenza monopolistica}{13}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}L'impresa MC nel breve periodo}{13}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}L'ingresso di nuove imprese}{13}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}L'equilibrio di lungo periodo}{13}{subsection.3.2.3}% 
+\contentsline {subsubsection}{Capacit\IeC {\`a} in eccesso}{13}{section*.6}% 
+\contentsline {subsection}{\numberline {3.2.4}Pubblicit\IeC {\`a} e marchi}{14}{subsection.3.2.4}% 
+\contentsline {section}{\numberline {3.3}Oligopolio}{14}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}Un nuovo tipo di razionalit\IeC {\`a}}{14}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.2}Caratteristica dell'oligopolio}{14}{subsection.3.3.2}% 
+\contentsline {subsubsection}{La teoria dei giochi}{14}{section*.7}% 
+\contentsline {subsection}{\numberline {3.3.3}Il caso pi\IeC {\`u} semplice: il duopolio}{14}{subsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.3.4}Collusione}{14}{subsection.3.3.4}% 
+\contentsline {subsubsection}{Equilibrio di Nash}{15}{section*.8}% 
+\contentsline {subsection}{\numberline {3.3.5}L'esito di un mercato oligopolistico}{15}{subsection.3.3.5}% 
+\contentsline {subsection}{\numberline {3.3.6}La politica economica e l'oligopolio}{15}{subsection.3.3.6}% 
+\contentsline {subsubsection}{Due problemi per l'antitrust}{15}{section*.9}% 
+\contentsline {chapter}{\numberline {4}Scelte dell'imprenditore: produzione e costi}{16}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Le scelte dell'imprenditore}{16}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}La funzione di produzione}{16}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}Prodotto marginale decrescente}{17}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}L'impresa multiprodotto e la Frontiera delle possibilit\IeC {\`a} di produzione}{17}{section.4.4}% 
+\contentsline {subsection}{\numberline {4.4.1}La massimizzazione del profitto}{17}{subsection.4.4.1}% 
+\contentsline {section}{\numberline {4.5}I costi di produzione e il profitto}{17}{section.4.5}% 
+\contentsline {subsection}{\numberline {4.5.1}Costi fissi e variabili}{17}{subsection.4.5.1}% 
+\contentsline {subsection}{\numberline {4.5.2}Costo marginale}{18}{subsection.4.5.2}% 
+\contentsline {subsection}{\numberline {4.5.3}Relazione tra costi medi e marginali}{18}{subsection.4.5.3}% 
+\contentsline {section}{\numberline {4.6}Economie di scala}{18}{section.4.6}% 
+\contentsline {subsection}{\numberline {4.6.1}Economie di scala reali (tecniche)}{18}{subsection.4.6.1}% 
+\contentsline {subsection}{\numberline {4.6.2}Economie di scala pecuniarie}{18}{subsection.4.6.2}% 
+\contentsline {subsection}{\numberline {4.6.3}Economie di scopo (o di produzione congiunta)}{19}{subsection.4.6.3}% 
+\contentsline {section}{\numberline {4.7}Diseconomie di scala}{19}{section.4.7}% 
+\contentsline {subsection}{\numberline {4.7.1}Valutazione della tecnica produttiva pi\IeC {\`u} conveniente}{19}{subsection.4.7.1}% 
+\contentsline {subsection}{\numberline {4.7.2}Isoquanti e isocosti}{19}{subsection.4.7.2}% 
+\contentsline {chapter}{\numberline {5}Le barriere all'entrata}{20}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Introduzione}{20}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Differenziazione di prodotto}{20}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Costi di cambiamento o di riconversione}{21}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}Esternalit\IeC {\`a} di rete}{21}{section.5.4}% 
+\contentsline {section}{\numberline {5.5}Barriere legali}{21}{section.5.5}% 
+\contentsline {section}{\numberline {5.6}Barriere geografiche}{21}{section.5.6}% 
+\contentsline {section}{\numberline {5.7}Barriere di tipo finanziario}{21}{section.5.7}% 
+\contentsline {section}{\numberline {5.8}Difficolt\IeC {\`a} di accesso ai canali distributivi}{22}{section.5.8}% 
+\contentsline {section}{\numberline {5.9}Strategie di diffusione all'entrata}{22}{section.5.9}% 
+\contentsline {chapter}{\numberline {6}Impresa e societa'}{23}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}La scelta della forma giuridica}{23}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Il soggetto giuridico in diverse aziende}{23}{section.6.2}% 
+\contentsline {paragraph}{Nelle famiglie}{23}{section*.10}% 
+\contentsline {paragraph}{Nelle imprese individuali}{23}{section*.11}% 
+\contentsline {paragraph}{Nelle imprese in forma di societa'}{23}{section*.12}% 
+\contentsline {paragraph}{Nelle aziende composte pubbliche}{23}{section*.13}% 
+\contentsline {section}{\numberline {6.3}Tipi di societa'}{24}{section.6.3}% 
+\contentsline {paragraph}{Societa' di persone}{24}{section*.14}% 
+\contentsline {paragraph}{Societa' di capitali}{24}{section*.15}% 
+\contentsline {subsection}{\numberline {6.3.1}Societa' di fatto}{24}{subsection.6.3.1}% 
+\contentsline {subsection}{\numberline {6.3.2}Societa' irregolari}{24}{subsection.6.3.2}% 
+\contentsline {subsection}{\numberline {6.3.3}Societa' semplice (S.S)}{24}{subsection.6.3.3}% 
+\contentsline {subsection}{\numberline {6.3.4}Societa' in nome collettivo (S.N.C)}{25}{subsection.6.3.4}% 
+\contentsline {subsection}{\numberline {6.3.5}Societa' in accomandita semplice (S.A.S.)}{25}{subsection.6.3.5}% 
+\contentsline {subsection}{\numberline {6.3.6}Societa' a responsabilita' limitata (S.R.L)}{25}{subsection.6.3.6}% 
+\contentsline {subsection}{\numberline {6.3.7}Societa' per azioni (S.P.A.)}{25}{subsection.6.3.7}% 
+\contentsline {subsection}{\numberline {6.3.8}Societa' in accomandita per azioni (S.A.A.)}{25}{subsection.6.3.8}% 
+\contentsline {section}{\numberline {6.4}Il soggetto economico}{25}{section.6.4}% 
+\contentsline {paragraph}{Nell'azienda domestico-patrimoniale}{25}{section*.16}% 
+\contentsline {paragraph}{Nell'impresa individuale}{25}{section*.17}% 
+\contentsline {paragraph}{Nella grande impresa}{26}{section*.18}% 
+\contentsline {paragraph}{Nelle aziende composte pubbliche}{26}{section*.19}% 
+\contentsline {subsection}{\numberline {6.4.1}Gli stakeholder}{26}{subsection.6.4.1}% 
