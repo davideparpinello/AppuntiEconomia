@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.10)  13 JUL 2019 17:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.10)  13 JUL 2019 17:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -448,18 +448,23 @@ e
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./AppuntiEconomia.toc)
-\tf@toc=\write4
-\openout4 = `AppuntiEconomia.toc'.
+(./AppuntiEconomia.toc
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <10> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 14.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.43 	\chapter
-              {Introduzione all'economia} [1
+l.48 ...oncorrenza monopolistica}{14}{section.3.2}
+                                                  % [1
 
-]
+] [2] [3])
+\tf@toc=\write4
+\openout4 = `AppuntiEconomia.toc'.
+
+ [4]
 Capitolo 1.
 LaTeX Font Info:    Try loading font information for OMS+cmss on input line 51.
 
@@ -469,24 +474,20 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbullet' on input line 51.
 
-[2
+[5
 
 ]
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 78.
 
-
-LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <10> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 79.
-
-[3]
-<flusso-circolare.png, id=791, 1022.82124pt x 621.32124pt>
+[6]
+<flusso-circolare.png, id=1192, 1022.82124pt x 621.32124pt>
 File: flusso-circolare.png Graphic file (type png)
 <use flusso-circolare.png>
 Package pdftex.def Info: flusso-circolare.png  used on input line 109.
 (pdftex.def)             Requested size: 317.0764pt x 192.60759pt.
- [4] [5pdfTeX warning (ext4): destination with the same identifier (name{figure
+ [7] [8pdfTeX warning (ext4): destination with the same identifier (name{figure
 .1.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -494,7 +495,7 @@ Package pdftex.def Info: flusso-circolare.png  used on input line 109.
 l.119 	\chapter
                {Il mercato} <./flusso-circolare.png>]
 Capitolo 2.
-[6
+[9
 
 ]
 
@@ -502,7 +503,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <12> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 145.
 
 
-<forbice-marshalliana.png, id=814, 981.6675pt x 578.16pt>
+<forbice-marshalliana.png, id=1215, 981.6675pt x 578.16pt>
 File: forbice-marshalliana.png Graphic file (type png)
 <use forbice-marshalliana.png>
 Package pdftex.def Info: forbice-marshalliana.png  used on input line 165.
@@ -510,27 +511,27 @@ Package pdftex.def Info: forbice-marshalliana.png  used on input line 165.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7] [8pdfTeX warning (ext4): destination with the same identifier (name{figure.
-2.1}) has been already used, duplicate ignored
+[10] [11pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.2.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.182 	\chapter
                {Il monopolio} <./forbice-marshalliana.png>]
 Capitolo 3.
-[9
+[12
 
-] [10] [11] [12] [13]
+] [13] [14] [15] [16]
 Capitolo 4.
-[14
+[17
 
-] [15] [16] [17]
+] [18] [19] [20]
 Capitolo 5.
-[18
+[21
 
-] [19] [20]
+] [22] [23]
 Capitolo 6.
-<imprenditore-impresa-societa.png, id=903, 1073.00874pt x 799.98875pt>
+<imprenditore-impresa-societa.png, id=1304, 1073.00874pt x 799.98875pt>
 File: imprenditore-impresa-societa.png Graphic file (type png)
 <use imprenditore-impresa-societa.png>
 Package pdftex.def Info: imprenditore-impresa-societa.png  used on input line 4
@@ -539,52 +540,52 @@ Package pdftex.def Info: imprenditore-impresa-societa.png  used on input line 4
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[21
+[24
 
-] [22pdfTeX warning (ext4): destination with the same identifier (name{figure.6
+] [25pdfTeX warning (ext4): destination with the same identifier (name{figure.6
 .1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.423 	\subsection
                   {Societa' in accomandita semplice (S.A.S.)} <./imprenditore-i
-mpresa-societa.png>] [23] [24]
+mpresa-societa.png>] [26] [27]
 Capitolo 7.
-[25
+[28
 
-] [26]
-<flussi-mercato-lavoro.png, id=952, 1073.00874pt x 656.4525pt>
+] [29]
+<flussi-mercato-lavoro.png, id=1353, 1073.00874pt x 656.4525pt>
 File: flussi-mercato-lavoro.png Graphic file (type png)
 <use flussi-mercato-lavoro.png>
 Package pdftex.def Info: flussi-mercato-lavoro.png  used on input line 506.
 (pdftex.def)             Requested size: 317.0764pt x 193.98236pt.
- [27pdfTeX warning (ext4): destination with the same identifier (name{figure.7.
+ [30pdfTeX warning (ext4): destination with the same identifier (name{figure.7.
 1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.514 	\subsection
                   {Tipi di disoccupazione} <./flussi-mercato-lavoro.png>]
-[28]
+[31]
 Overfull \hbox (20.82764pt too wide) in paragraph at lines 538--539
  []\OT1/cmss/bx/n/10 Domanda di mo-ne-ta a sco-po tran-sat-ti-vo[] \OT1/cmss/m/
 n/12 Si do-man-da mo-ne-ta per uti-liz-zar-la co-me $[]$.
  []
 
-[29] [30]
+[32] [33]
 Underfull \hbox (badness 10000) in paragraph at lines 583--584
 
  []
 
-[31]
+[34]
 Capitolo 8.
-<classificazione-informazioni.png, id=998, 1073.00874pt x 656.4525pt>
+<classificazione-informazioni.png, id=1399, 1073.00874pt x 656.4525pt>
 File: classificazione-informazioni.png Graphic file (type png)
 <use classificazione-informazioni.png>
 Package pdftex.def Info: classificazione-informazioni.png  used on input line 5
 92.
 (pdftex.def)             Requested size: 317.0764pt x 193.98236pt.
-[32
+[35
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8.1}) 
 has been already used, duplicate ignored
@@ -593,8 +594,8 @@ has been already used, duplicate ignored
                                                   \fi \fi 
 l.597 	\paragraph
                  {Informazioni contabili operative} Principale fonte di dati...
- <./classificazione-informazioni.png>] [33] [34] [35]
-<classificazione-attivita.png, id=1039, 893.3375pt x 656.4525pt>
+ <./classificazione-informazioni.png>] [36] [37] [38]
+<classificazione-attivita.png, id=1441, 893.3375pt x 656.4525pt>
 File: classificazione-attivita.png Graphic file (type png)
 <use classificazione-attivita.png>
 Package pdftex.def Info: classificazione-attivita.png  used on input line 680.
@@ -608,14 +609,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 686--687
 
  []
 
-[36] [37pdfTeX warning (ext4): destination with the same identifier (name{figur
+[39] [40pdfTeX warning (ext4): destination with the same identifier (name{figur
 e.8.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.697 	\newpage
                 <./classificazione-attivita.png>]
-<attivita-immobilizzate.png, id=1054, 982.67125pt x 656.4525pt>
+<attivita-immobilizzate.png, id=1455, 982.67125pt x 656.4525pt>
 File: attivita-immobilizzate.png Graphic file (type png)
 <use attivita-immobilizzate.png>
 Package pdftex.def Info: attivita-immobilizzate.png  used on input line 701.
@@ -625,7 +626,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 711--712
 
  []
 
-<capitale-netto.png, id=1055, 1052.93375pt x 299.1175pt>
+<capitale-netto.png, id=1456, 1052.93375pt x 299.1175pt>
 File: capitale-netto.png Graphic file (type png)
 <use capitale-netto.png>
 Package pdftex.def Info: capitale-netto.png  used on input line 729.
@@ -638,23 +639,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 734--737
 
  []
 
-[38 <./attivita-immobilizzate.png>]
-<partita-doppia.png, id=1066, 766.865pt x 287.0725pt>
+[41 <./attivita-immobilizzate.png>]
+<partita-doppia.png, id=1467, 766.865pt x 287.0725pt>
 File: partita-doppia.png Graphic file (type png)
 <use partita-doppia.png>
 Package pdftex.def Info: partita-doppia.png  used on input line 748.
 (pdftex.def)             Requested size: 317.0764pt x 118.69482pt.
-<schema-attivo.png, id=1067, 837.1275pt x 595.22375pt>
+<schema-attivo.png, id=1468, 837.1275pt x 595.22375pt>
 File: schema-attivo.png Graphic file (type png)
 <use schema-attivo.png>
 Package pdftex.def Info: schema-attivo.png  used on input line 755.
 (pdftex.def)             Requested size: 317.0764pt x 225.44263pt.
-<schema-passivo.png, id=1068, 673.51625pt x 670.505pt>
+<schema-passivo.png, id=1469, 673.51625pt x 670.505pt>
 File: schema-passivo.png Graphic file (type png)
 <use schema-passivo.png>
 Package pdftex.def Info: schema-passivo.png  used on input line 761.
 (pdftex.def)             Requested size: 317.0764pt x 315.65918pt.
- [39pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
+ [42pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
 3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -666,7 +667,7 @@ l.763 	\end{figure}
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.763 	\end{figure}
-                    <./capitale-netto.png> <./partita-doppia.png>] [40pdfTeX wa
+                    <./capitale-netto.png> <./partita-doppia.png>] [43pdfTeX wa
 rning (ext4): destination with the same identifier (name{figure.8.5}) has been 
 already used, duplicate ignored
 
@@ -682,46 +683,46 @@ licate ignored
 l.766 	\subsection
                   {Il giornale e il riporto a Mastro} <./schema-attivo.png> <./
 schema-passivo.png>]
-<conto-economico.png, id=1088, 1244.65pt x 1760.5775pt>
+<conto-economico.png, id=1490, 1244.65pt x 1760.5775pt>
 File: conto-economico.png Graphic file (type png)
 <use conto-economico.png>
 Package pdftex.def Info: conto-economico.png  used on input line 782.
 (pdftex.def)             Requested size: 452.96826pt x 640.73839pt.
- [41]
+ [44]
 Overfull \vbox (27.12004pt too high) has occurred while \output is active []
 
 
-[42pdfTeX warning (ext4): destination with the same identifier (name{figure.8.7
+[45pdfTeX warning (ext4): destination with the same identifier (name{figure.8.7
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.784 	\newpage
-                <./conto-economico.png>] [43]
-<sintesi-costi-perdite.png, id=1110, 901.3675pt x 670.505pt>
+                <./conto-economico.png>] [46]
+<sintesi-costi-perdite.png, id=1511, 901.3675pt x 670.505pt>
 File: sintesi-costi-perdite.png Graphic file (type png)
 <use sintesi-costi-perdite.png>
 Package pdftex.def Info: sintesi-costi-perdite.png  used on input line 819.
 (pdftex.def)             Requested size: 317.0764pt x 235.86707pt.
- [44pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
+ [47pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
 8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.823 	\newpage
-                <./sintesi-costi-perdite.png>] [45] [46]
+                <./sintesi-costi-perdite.png>] [48] [49]
 Overfull \hbox (168.01598pt too wide) in paragraph at lines 882--883
 \OT1/cmss/m/n/12 Il prin-ci-pio ge-ne-ra-le per va-lo-riz-za-re le ri-ma-nen-ze
  e' che deb-ba-no es-se-re va-lo-riz-za-te al $[]$.
  []
 
-[47] [48]
-<ratei-risconti.png, id=1162, 777.90625pt x 394.47375pt>
+[50] [51]
+<ratei-risconti.png, id=1563, 777.90625pt x 394.47375pt>
 File: ratei-risconti.png Graphic file (type png)
 <use ratei-risconti.png>
 Package pdftex.def Info: ratei-risconti.png  used on input line 922.
 (pdftex.def)             Requested size: 317.0764pt x 160.79027pt.
- [49pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
+ [52pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
 9}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -729,29 +730,29 @@ Package pdftex.def Info: ratei-risconti.png  used on input line 922.
 l.930 	\subsection
                   {Attivita' tipiche che hanno effetto sulla cassa} <./ratei-ri
 sconti.png>]
-<image-2.png, id=1179, 1909.1325pt x 2673.99pt>
+<image-2.png, id=1580, 1909.1325pt x 2673.99pt>
 File: image-2.png Graphic file (type png)
 <use image-2.png>
 Package pdftex.def Info: image-2.png  used on input line 936.
 (pdftex.def)             Requested size: 249.13391pt x 348.93657pt.
- [50pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
+ [53pdfTeX warning (ext4): destination with the same identifier (name{figure.8.
 10}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.944 		\item
               affermano di aver preso visione dei dati di responsabilita' de...
- <./image-2.png>] [51]
+ <./image-2.png>] [54]
 Capitolo 9.
-[52
+[55
 
-] [53]
-<sp.png, id=1218, 768.8725pt x 444.66125pt>
+] [56]
+<sp.png, id=1619, 768.8725pt x 444.66125pt>
 File: sp.png Graphic file (type png)
 <use sp.png>
 Package pdftex.def Info: sp.png  used on input line 1000.
 (pdftex.def)             Requested size: 317.0764pt x 183.37753pt.
-<confronto-capitali.png, id=1219, 833.1125pt x 444.66125pt>
+<confronto-capitali.png, id=1620, 833.1125pt x 444.66125pt>
 File: confronto-capitali.png Graphic file (type png)
 <use confronto-capitali.png>
 Package pdftex.def Info: confronto-capitali.png  used on input line 1010.
@@ -760,13 +761,13 @@ Package pdftex.def Info: confronto-capitali.png  used on input line 1010.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[54pdfTeX warning (ext4): destination with the same identifier (name{figure.9.1
+[57pdfTeX warning (ext4): destination with the same identifier (name{figure.9.1
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.1016 	\[MT = LI + LD - PC\]
-                              <./sp.png>] [55pdfTeX warning (ext4): destination
+                              <./sp.png>] [58pdfTeX warning (ext4): destination
  with the same identifier (name{figure.9.2}) has been already used, duplicate i
 gnored
 
@@ -775,17 +776,17 @@ gnored
 l.1031 	\subsection
                    {Tre postulati di buona dinamica} <./confronto-capitali.png>
 ]
-<ce-costo-venduto.png, id=1246, 605.26125pt x 549.05125pt>
+<ce-costo-venduto.png, id=1647, 605.26125pt x 549.05125pt>
 File: ce-costo-venduto.png Graphic file (type png)
 <use ce-costo-venduto.png>
 Package pdftex.def Info: ce-costo-venduto.png  used on input line 1043.
 (pdftex.def)             Requested size: 317.0764pt x 287.62788pt.
-<ce-valore-aggiunto.png, id=1247, 693.59125pt x 466.74374pt>
+<ce-valore-aggiunto.png, id=1648, 693.59125pt x 466.74374pt>
 File: ce-valore-aggiunto.png Graphic file (type png)
 <use ce-valore-aggiunto.png>
 Package pdftex.def Info: ce-valore-aggiunto.png  used on input line 1049.
 (pdftex.def)             Requested size: 317.0764pt x 213.38005pt.
- [56] [57pdfTeX warning (ext4): destination with the same identifier (name{figu
+ [59] [60pdfTeX warning (ext4): destination with the same identifier (name{figu
 re.9.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -798,68 +799,59 @@ l.1055 	\section
                                                   \fi \fi 
 l.1055 	\section
                 {Indici di bilancio} <./ce-costo-venduto.png> <./ce-valore-aggi
-unto.png>] [58]
-<indici-liquidita.png, id=1277, 809.0225pt x 599.23875pt>
+unto.png>] [61]
+<indici-liquidita.png, id=1679, 809.0225pt x 599.23875pt>
 File: indici-liquidita.png Graphic file (type png)
 <use indici-liquidita.png>
 Package pdftex.def Info: indici-liquidita.png  used on input line 1081.
 (pdftex.def)             Requested size: 317.0764pt x 234.85426pt.
- [59pdfTeX warning (ext4): destination with the same identifier (name{figure.9.
+ [62pdfTeX warning (ext4): destination with the same identifier (name{figure.9.
 5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.1090 ...ure di vendita emesse nell'esercizio}}\]
                                                    <./indici-liquidita.png>]
-[60]
+[63]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1127.
- [61]
+ [64]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 1127.
  (./AppuntiEconomia.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1127.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1127.
 
+Package rerunfilecheck Info: File `AppuntiEconomia.out' has not changed.
+(rerunfilecheck)             Checksum: 33517D232B16A613C2C00ADE758EC2F2;14969.
 
-
-Package rerunfilecheck Warning: File `AppuntiEconomia.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `AppuntiEconomia.out':
-(rerunfilecheck)             Before: 800C0CDB231C880812D31F400CAAFF8B;14892
-(rerunfilecheck)             After:  33517D232B16A613C2C00ADE758EC2F2;14969.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 8807 strings out of 492616
- 128904 string characters out of 6129481
- 243148 words of memory out of 5000000
- 12187 multiletter control sequences out of 15000+600000
- 11672 words of font info for 41 fonts, out of 8000000 for 9000
+ 8813 strings out of 492616
+ 128971 string characters out of 6129481
+ 250149 words of memory out of 5000000
+ 12190 multiletter control sequences out of 15000+600000
+ 12126 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  33i,12n,43p,814b,535s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{toc} has been referenced but does not exist, repl
-aced by a fixed one
-
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
-/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
-r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/l
-ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/lo
-cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/loc
-al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local
-/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/loca
-l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/loca
-l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/loca
-l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
-/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on AppuntiEconomia.pdf (62 pages, 5610345 bytes).
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></
+usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr
+/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/
+local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/l
+ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/loc
+al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/lo
+cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/lo
+cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/lo
+cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
+al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on AppuntiEconomia.pdf (65 pages, 5630279 bytes).
 PDF statistics:
- 1449 PDF objects out of 1728 (max. 8388607)
- 1318 compressed objects within 14 object streams
- 431 named destinations out of 1000 (max. 500000)
- 1613 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1852 PDF objects out of 2073 (max. 8388607)
+ 1714 compressed objects within 18 object streams
+ 434 named destinations out of 1000 (max. 500000)
+ 1621 words of extra memory for PDF output out of 10000 (max. 10000000)
 
