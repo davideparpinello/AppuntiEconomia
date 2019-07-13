@@ -177,24 +177,40 @@
 \contentsline {paragraph}{Documento vincolato}{37}{section*.44}% 
 \contentsline {section}{\numberline {8.5}La rappresentazione contabile dei valori}{37}{section.8.5}% 
 \contentsline {subsection}{\numberline {8.5.1}Il sistema dei valori}{38}{subsection.8.5.1}% 
-\contentsline {section}{\numberline {8.6}Lo stato patrimoniale}{38}{section.8.6}% 
-\contentsline {subsection}{\numberline {8.6.1}Le aree dello stato patrimoniale}{38}{subsection.8.6.1}% 
-\contentsline {subsection}{\numberline {8.6.2}I dieci principi del processo contabile}{38}{subsection.8.6.2}% 
-\contentsline {subsubsection}{Il principio del duplice aspetto}{38}{section*.45}% 
-\contentsline {subsubsection}{Principi di omogeneit\IeC {\`a} e identita' giuridica}{38}{section*.46}% 
-\contentsline {subparagraph}{Principio di omogeneit\IeC {\`a}}{38}{section*.47}% 
-\contentsline {subparagraph}{Principio di identita' giuridica}{38}{section*.48}% 
-\contentsline {subsubsection}{Il principio della prospettiva di funzionamento}{38}{section*.49}% 
-\contentsline {subsubsection}{Il principio del costo}{39}{section*.50}% 
-\contentsline {subsection}{\numberline {8.6.3}Attivita' correnti e immobilizzate}{39}{subsection.8.6.3}% 
-\contentsline {subsubsection}{Le attivita' correnti}{39}{section*.51}% 
-\contentsline {subsubsection}{Le attivita' immobilizzate}{40}{section*.52}% 
-\contentsline {paragraph}{L'avviamento}{40}{section*.53}% 
-\contentsline {subsection}{\numberline {8.6.4}Passivita' correnti e immobilizzate}{40}{subsection.8.6.4}% 
-\contentsline {subsubsection}{Passivita' correnti}{40}{section*.54}% 
-\contentsline {subsubsection}{Passivita' a lungo termine}{40}{section*.55}% 
-\contentsline {section}{\numberline {8.7}L'analisi delle transazioni}{41}{section.8.7}% 
-\contentsline {paragraph}{Transazione}{41}{section*.56}% 
-\contentsline {subsection}{\numberline {8.7.1}Partita doppia}{41}{subsection.8.7.1}% 
-\contentsline {subsection}{\numberline {8.7.2}I conti e le regole di registrazione degli incrementi}{43}{subsection.8.7.2}% 
-\contentsline {subsection}{\numberline {8.7.3}Il giornale e il riporto a Mastro}{43}{subsection.8.7.3}% 
+\contentsline {section}{\numberline {8.6}I dieci principi del processo contabile}{38}{section.8.6}% 
+\contentsline {subsection}{\numberline {8.6.1}Il principio del duplice aspetto}{38}{subsection.8.6.1}% 
+\contentsline {subsection}{\numberline {8.6.2}Principi di omogeneit\IeC {\`a} e identita' giuridica}{38}{subsection.8.6.2}% 
+\contentsline {subsection}{\numberline {8.6.3}Principio di omogeneit\IeC {\`a}}{38}{subsection.8.6.3}% 
+\contentsline {subsection}{\numberline {8.6.4}Principio di identita' giuridica}{38}{subsection.8.6.4}% 
+\contentsline {subsection}{\numberline {8.6.5}Il principio della prospettiva di funzionamento}{38}{subsection.8.6.5}% 
+\contentsline {subsection}{\numberline {8.6.6}Il principio del costo}{38}{subsection.8.6.6}% 
+\contentsline {subsection}{\numberline {8.6.7}Principio di prudenza}{38}{subsection.8.6.7}% 
+\contentsline {subsection}{\numberline {8.6.8}Principio di significativita' e rilevanza}{39}{subsection.8.6.8}% 
+\contentsline {subsection}{\numberline {8.6.9}Principio di realizzazione dei ricavi}{39}{subsection.8.6.9}% 
+\contentsline {subsection}{\numberline {8.6.10}Principio di competenza}{39}{subsection.8.6.10}% 
+\contentsline {section}{\numberline {8.7}Lo stato patrimoniale}{39}{section.8.7}% 
+\contentsline {subsection}{\numberline {8.7.1}Le aree dello stato patrimoniale}{39}{subsection.8.7.1}% 
+\contentsline {subsection}{\numberline {8.7.2}Attivita' correnti e immobilizzate}{39}{subsection.8.7.2}% 
+\contentsline {subsubsection}{Le attivita' correnti}{40}{section*.45}% 
+\contentsline {subsubsection}{Le attivita' immobilizzate}{41}{section*.46}% 
+\contentsline {paragraph}{L'avviamento}{41}{section*.47}% 
+\contentsline {subsection}{\numberline {8.7.3}Passivita' correnti e immobilizzate}{41}{subsection.8.7.3}% 
+\contentsline {subsubsection}{Passivita' correnti}{41}{section*.48}% 
+\contentsline {subsubsection}{Passivita' a lungo termine}{41}{section*.49}% 
+\contentsline {section}{\numberline {8.8}L'analisi delle transazioni}{42}{section.8.8}% 
+\contentsline {paragraph}{Transazione}{42}{section*.50}% 
+\contentsline {subsection}{\numberline {8.8.1}Partita doppia}{42}{subsection.8.8.1}% 
+\contentsline {subsection}{\numberline {8.8.2}I conti e le regole di registrazione degli incrementi}{44}{subsection.8.8.2}% 
+\contentsline {subsection}{\numberline {8.8.3}Il giornale e il riporto a Mastro}{44}{subsection.8.8.3}% 
+\contentsline {section}{\numberline {8.9}Il conto economico}{44}{section.8.9}% 
+\contentsline {subsection}{\numberline {8.9.1}La periodicita' della misurazione e le relazioni tra reddito e capitale}{46}{subsection.8.9.1}% 
+\contentsline {section}{\numberline {8.10}I costi}{46}{section.8.10}% 
+\contentsline {subsection}{\numberline {8.10.1}I costi di competenza}{46}{subsection.8.10.1}% 
+\contentsline {paragraph}{Costo in senso generico}{46}{section*.51}% 
+\contentsline {paragraph}{Spesa}{46}{section*.52}% 
+\contentsline {paragraph}{Esborso}{46}{section*.53}% 
+\contentsline {subsection}{\numberline {8.10.2}Attivita' che diventano costi di competenza}{47}{subsection.8.10.2}% 
+\contentsline {paragraph}{Merci}{47}{section*.54}% 
+\contentsline {paragraph}{Costi anticipati}{47}{section*.55}% 
+\contentsline {paragraph}{Immobilizzazioni tecniche}{47}{section*.56}% 
+\contentsline {subsection}{\numberline {8.10.3}Perdite, insussistenze e sopravvivenze passive}{47}{subsection.8.10.3}% 
