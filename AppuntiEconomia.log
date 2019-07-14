@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.10)  13 JUL 2019 17:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.10)  14 JUL 2019 20:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -542,13 +542,20 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [24
 
-] [25pdfTeX warning (ext4): destination with the same identifier (name{figure.6
-.1}) has been already used, duplicate ignored
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 13.04448pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[25pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.423 	\subsection
-                  {Societa' in accomandita semplice (S.A.S.)} <./imprenditore-i
+                  {Società in accomandita semplice (S.A.S.)} <./imprenditore-i
 mpresa-societa.png>] [26] [27]
 Capitolo 7.
 [28
@@ -595,7 +602,7 @@ has been already used, duplicate ignored
 l.597 	\paragraph
                  {Informazioni contabili operative} Principale fonte di dati...
  <./classificazione-informazioni.png>] [36] [37] [38]
-<classificazione-attivita.png, id=1441, 893.3375pt x 656.4525pt>
+<classificazione-attivita.png, id=1440, 893.3375pt x 656.4525pt>
 File: classificazione-attivita.png Graphic file (type png)
 <use classificazione-attivita.png>
 Package pdftex.def Info: classificazione-attivita.png  used on input line 680.
@@ -616,7 +623,7 @@ e.8.2}) has been already used, duplicate ignored
                                                   \fi \fi 
 l.697 	\newpage
                 <./classificazione-attivita.png>]
-<attivita-immobilizzate.png, id=1455, 982.67125pt x 656.4525pt>
+<attivita-immobilizzate.png, id=1454, 982.67125pt x 656.4525pt>
 File: attivita-immobilizzate.png Graphic file (type png)
 <use attivita-immobilizzate.png>
 Package pdftex.def Info: attivita-immobilizzate.png  used on input line 701.
@@ -626,7 +633,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 711--712
 
  []
 
-<capitale-netto.png, id=1456, 1052.93375pt x 299.1175pt>
+<capitale-netto.png, id=1455, 1052.93375pt x 299.1175pt>
 File: capitale-netto.png Graphic file (type png)
 <use capitale-netto.png>
 Package pdftex.def Info: capitale-netto.png  used on input line 729.
@@ -640,17 +647,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 734--737
  []
 
 [41 <./attivita-immobilizzate.png>]
-<partita-doppia.png, id=1467, 766.865pt x 287.0725pt>
+<partita-doppia.png, id=1466, 766.865pt x 287.0725pt>
 File: partita-doppia.png Graphic file (type png)
 <use partita-doppia.png>
 Package pdftex.def Info: partita-doppia.png  used on input line 748.
 (pdftex.def)             Requested size: 317.0764pt x 118.69482pt.
-<schema-attivo.png, id=1468, 837.1275pt x 595.22375pt>
+<schema-attivo.png, id=1467, 837.1275pt x 595.22375pt>
 File: schema-attivo.png Graphic file (type png)
 <use schema-attivo.png>
 Package pdftex.def Info: schema-attivo.png  used on input line 755.
 (pdftex.def)             Requested size: 317.0764pt x 225.44263pt.
-<schema-passivo.png, id=1469, 673.51625pt x 670.505pt>
+<schema-passivo.png, id=1468, 673.51625pt x 670.505pt>
 File: schema-passivo.png Graphic file (type png)
 <use schema-passivo.png>
 Package pdftex.def Info: schema-passivo.png  used on input line 761.
@@ -683,7 +690,7 @@ licate ignored
 l.766 	\subsection
                   {Il giornale e il riporto a Mastro} <./schema-attivo.png> <./
 schema-passivo.png>]
-<conto-economico.png, id=1490, 1244.65pt x 1760.5775pt>
+<conto-economico.png, id=1489, 1244.65pt x 1760.5775pt>
 File: conto-economico.png Graphic file (type png)
 <use conto-economico.png>
 Package pdftex.def Info: conto-economico.png  used on input line 782.
@@ -699,7 +706,7 @@ Overfull \vbox (27.12004pt too high) has occurred while \output is active []
                                                   \fi \fi 
 l.784 	\newpage
                 <./conto-economico.png>] [46]
-<sintesi-costi-perdite.png, id=1511, 901.3675pt x 670.505pt>
+<sintesi-costi-perdite.png, id=1510, 901.3675pt x 670.505pt>
 File: sintesi-costi-perdite.png Graphic file (type png)
 <use sintesi-costi-perdite.png>
 Package pdftex.def Info: sintesi-costi-perdite.png  used on input line 819.
@@ -711,13 +718,13 @@ Package pdftex.def Info: sintesi-costi-perdite.png  used on input line 819.
                                                   \fi \fi 
 l.823 	\newpage
                 <./sintesi-costi-perdite.png>] [48] [49]
-Overfull \hbox (168.01598pt too wide) in paragraph at lines 882--883
+Overfull \hbox (164.75212pt too wide) in paragraph at lines 882--883
 \OT1/cmss/m/n/12 Il prin-ci-pio ge-ne-ra-le per va-lo-riz-za-re le ri-ma-nen-ze
- e' che deb-ba-no es-se-re va-lo-riz-za-te al $[]$.
+ ^^Re che deb-ba-no es-se-re va-lo-riz-za-te al $[]$.
  []
 
 [50] [51]
-<ratei-risconti.png, id=1563, 777.90625pt x 394.47375pt>
+<ratei-risconti.png, id=1562, 777.90625pt x 394.47375pt>
 File: ratei-risconti.png Graphic file (type png)
 <use ratei-risconti.png>
 Package pdftex.def Info: ratei-risconti.png  used on input line 922.
@@ -728,9 +735,9 @@ Package pdftex.def Info: ratei-risconti.png  used on input line 922.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.930 	\subsection
-                  {Attivita' tipiche che hanno effetto sulla cassa} <./ratei-ri
+                  {Attività tipiche che hanno effetto sulla cassa} <./ratei-ri
 sconti.png>]
-<image-2.png, id=1580, 1909.1325pt x 2673.99pt>
+<image-2.png, id=1579, 1909.1325pt x 2673.99pt>
 File: image-2.png Graphic file (type png)
 <use image-2.png>
 Package pdftex.def Info: image-2.png  used on input line 936.
@@ -741,18 +748,18 @@ Package pdftex.def Info: image-2.png  used on input line 936.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.944 		\item
-              affermano di aver preso visione dei dati di responsabilita' de...
+              affermano di aver preso visione dei dati di responsabilità de...
  <./image-2.png>] [54]
 Capitolo 9.
 [55
 
 ] [56]
-<sp.png, id=1619, 768.8725pt x 444.66125pt>
+<sp.png, id=1618, 768.8725pt x 444.66125pt>
 File: sp.png Graphic file (type png)
 <use sp.png>
 Package pdftex.def Info: sp.png  used on input line 1000.
 (pdftex.def)             Requested size: 317.0764pt x 183.37753pt.
-<confronto-capitali.png, id=1620, 833.1125pt x 444.66125pt>
+<confronto-capitali.png, id=1619, 833.1125pt x 444.66125pt>
 File: confronto-capitali.png Graphic file (type png)
 <use confronto-capitali.png>
 Package pdftex.def Info: confronto-capitali.png  used on input line 1010.
@@ -776,12 +783,12 @@ gnored
 l.1031 	\subsection
                    {Tre postulati di buona dinamica} <./confronto-capitali.png>
 ]
-<ce-costo-venduto.png, id=1647, 605.26125pt x 549.05125pt>
+<ce-costo-venduto.png, id=1646, 605.26125pt x 549.05125pt>
 File: ce-costo-venduto.png Graphic file (type png)
 <use ce-costo-venduto.png>
 Package pdftex.def Info: ce-costo-venduto.png  used on input line 1043.
 (pdftex.def)             Requested size: 317.0764pt x 287.62788pt.
-<ce-valore-aggiunto.png, id=1648, 693.59125pt x 466.74374pt>
+<ce-valore-aggiunto.png, id=1647, 693.59125pt x 466.74374pt>
 File: ce-valore-aggiunto.png Graphic file (type png)
 <use ce-valore-aggiunto.png>
 Package pdftex.def Info: ce-valore-aggiunto.png  used on input line 1049.
@@ -800,7 +807,7 @@ l.1055 	\section
 l.1055 	\section
                 {Indici di bilancio} <./ce-costo-venduto.png> <./ce-valore-aggi
 unto.png>] [61]
-<indici-liquidita.png, id=1679, 809.0225pt x 599.23875pt>
+<indici-liquidita.png, id=1678, 809.0225pt x 599.23875pt>
 File: indici-liquidita.png Graphic file (type png)
 <use indici-liquidita.png>
 Package pdftex.def Info: indici-liquidita.png  used on input line 1081.
@@ -821,17 +828,17 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1127.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1127.
 
 Package rerunfilecheck Info: File `AppuntiEconomia.out' has not changed.
-(rerunfilecheck)             Checksum: 33517D232B16A613C2C00ADE758EC2F2;14969.
+(rerunfilecheck)             Checksum: FE9A3809DCDB46D7495CF6893BA8E74D;14992.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 8813 strings out of 492616
- 128971 string characters out of 6129481
+ 8814 strings out of 492616
+ 128979 string characters out of 6129481
  250149 words of memory out of 5000000
- 12190 multiletter control sequences out of 15000+600000
+ 12191 multiletter control sequences out of 15000+600000
  12126 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  33i,12n,43p,814b,535s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -846,12 +853,11 @@ ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/loc
 al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/lo
 cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/lo
 cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/lo
-cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
-al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on AppuntiEconomia.pdf (65 pages, 5630279 bytes).
+cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on AppuntiEconomia.pdf (65 pages, 5623444 bytes).
 PDF statistics:
- 1852 PDF objects out of 2073 (max. 8388607)
- 1714 compressed objects within 18 object streams
+ 1848 PDF objects out of 2073 (max. 8388607)
+ 1711 compressed objects within 18 object streams
  434 named destinations out of 1000 (max. 500000)
  1621 words of extra memory for PDF output out of 10000 (max. 10000000)
 
